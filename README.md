@@ -1,8 +1,8 @@
-# 💫 About Me:
+#  About Me:
 I'm Adithya Arun, a 3rd-year Computer Science student at VIT Chennai,<br> Specializing in AI and Machine Learning. <br>I am passionate about solving real-world problems through software development, artificial intelligence, and data science.
 
 
-## 🌐 Socials:
+##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adithyeyeyya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adithyaabg@gmail.com) 
 
 # 💻 Tech Stack:
