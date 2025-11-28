@@ -1,5 +1,5 @@
 #  About Me:
-I'm Adithya Arun, a 3rd-year Computer Science student at VIT Chennai,<br> Specializing in AI and Machine Learning. <br>I am passionate about solving real-world problems through software development, artificial intelligence, and data science.
+I'm Adithya Arun, a Final year Computer Science student at VIT Chennai,<br> Specializing in AI and Machine Learning. <br>I am passionate about solving real-world problems through software development, artificial intelligence, data science and game development.
 
 
 ##  Socials:
